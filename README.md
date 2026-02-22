@@ -3,7 +3,7 @@
 
 ## فارسی
 
-«خانه‌ام» اثری موسیقایی است که برای میهنم و به یاد خانه‌ام سروده‌ام و آن را به فرزندان ایران، جان‌فدایان میهن و جاویدنامان انقلاب شیر و خورشید ایران ۲۵۳۵ تقدیم می‌کنم. 
+«خانه‌ام» اثری موسیقایی است که برای میهنم و به یاد خانه‌ام، ایران سروده‌ام و آن را به فرزندان ایران، جان‌فدایان میهن و جاویدنامان انقلاب شیر و خورشید ایران ۲۵۳۵ تقدیم می‌کنم. 
 این ترانه بیانی انسانی، احساسی و میهنی از اندوه و رنجِ برخاسته از پرپرشدن بیش از ۳۲٬۰۰۰ زن و مرد، پیر و جوان ایرانی است.
 اثری که با همراهی هوش مصنوعی و به‌صورت گام‌به‌گام شکل گرفته و روند خلق و تکامل آن به‌صورت شفاف در این مخزن منتشر شده است.
 
@@ -18,7 +18,10 @@
 
 ## English
 
-**My Home** is a musical work written for my homeland — for my home.  It is dedicated to the children of Iran, the selfless defenders of the homeland, and the eternal names of the Lion and Sun Revolution of Iran 2535. This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.  It was developed step by step with the assistance of artificial intelligence, and its creative process is transparently documented in this repository.
+**My Home** is a musical work written for my homeland, and in remembrance of my home, Iran. 
+It is dedicated to the children of Iran, to those who gave their lives for the homeland, and to the Javid-nam — the enduring names of the Lion and Sun Revolution of Iran 2535. 
+This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.
+The work was developed step by step with the assistance of AI, and the process of its creation and evolution is documented transparently in this repository.
 
 ### License & Contribution
 This is an open-source artistic project. Respectful contributions and feedback are welcome.
@@ -28,10 +31,12 @@ This is an open-source artistic project. Respectful contributions and feedback a
 ## Metadata
 
 Artist: Amir Astaneh  
-Album Title: Javid Nām (جاویدنام)  
+Album Title: Javid-nam (جاویدنام)
 Album Transliteration: jɑː-ˈviːd nɑːm / jā-veed nām  
+Album Description: Javid-nam is a musical reflection on memory, loss, and homeland. Drawing from the Iranian concept of honoring names that endure beyond death, the album approaches collective grief through a personal lens, shaped by silence, endurance, and remembrance.
 Track Title: My Home  
 Track Title (Persian): خانه‌ام  
+Track Description: My Home is a musical work written for my homeland — for my home.  It is dedicated to the children of Iran, the selfless defenders of the homeland, and the eternal names of the Lion and Sun Revolution of Iran 2535. This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.  It was developed step by step with the assistance of artificial intelligence, and its creative process is transparently documented in this repository.
 Release Type: Album  
 Release Date: 2026-02-14  
 Country: Canada  
