@@ -9,7 +9,7 @@
 اثری که با همراهی هوش مصنوعی و به‌صورت گام‌به‌گام شکل گرفته و روند خلق و تکامل آن به‌صورت شفاف در این مخزن منتشر شده است.
 
 ### انتشار و دسترسی
-- GitHub Releases: https://github.com/amastaneh/music-my-home
+- GitHub Releases: [https://github.com/amastaneh/music-my-home/release](github.com/amastaneh/music-my-home)
 - SoundCloud: https://soundcloud.com/amastaneh  
 
 ### مجوز و مشارکت
