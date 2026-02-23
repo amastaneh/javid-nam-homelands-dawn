@@ -31,36 +31,36 @@ This is an open-source artistic project. Respectful contributions and feedback a
 ## Metadata
 
 Track Title: Homeland’s Dawn  
-Track Title (Persian): صبح میهن  
-Track Description: Homeland’s Dawn is a musical work written for my homeland — for my home.  It is dedicated to the children of Iran, the selfless defenders of the homeland, and the eternal names of the Lion and Sun Revolution of Iran 2535. This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.  It was developed step by step with the assistance of artificial intelligence, and its creative process is transparently documented in this repository.
+Track Title (Persian): صبح میهن  <br/>
+Track Description: Homeland’s Dawn is a musical work written for my homeland — for my home.  It is dedicated to the children of Iran, the selfless defenders of the homeland, and the eternal names of the Lion and Sun Revolution of Iran 2535. This song is a human, emotional, and patriotic expression of grief and sorrow arising from the loss of more than 32,000 Iranian women and men, young and old.  It was developed step by step with the assistance of artificial intelligence, and its creative process is transparently documented in this repository. <br/>
 Artist: Amir Astaneh  
-Album Title: Javid-nam
-Album Title (Persian): جاویدنام
+Album Title: Javid-nam 
+Album Title (Persian): جاویدنام <br/> 
 Album Transliteration: jɑː-ˈviːd nɑːm / jā-veed nām  
-Album Description: Javid-nam is a musical reflection on memory, loss, and homeland. Drawing from the Iranian concept of honoring names that endure beyond death, the album approaches collective grief through a personal lens, shaped by silence, endurance, and remembrance.
+Album Description: Javid-nam is a musical reflection on memory, loss, and homeland. Drawing from the Iranian concept of honoring names that endure beyond death, the album approaches collective grief through a personal lens, shaped by silence, endurance, and remembrance. <br/>
 Release Type: Album  
 Release Date: 2026-02-14  
 Country: Canada  
 Language: Persian (Farsi)  
 Secondary Language: English  
 Independent Release: Yes  
-Distribution: SoundCloud, Bandcamp
+Distribution: SoundCloud, Bandcamp 
 Repository: GitHub  
-Platforms:  SoundCloud, YouTube, Instagram, Bandcamp
+Platforms:  SoundCloud, YouTube, Instagram, Bandcamp 
 Concept Album: Yes  
-Genre: Epic-Tragic / Cinematic
+Genre: Epic-Tragic / Cinematic 
 Subgenres: Cinematic Orchestral, Dark Pop-Rap  
 Theme: Homeland, Loss, Mourning, Memory, Resistance  
 Mood: Tragic, Emotional, Intense  
 Tone: Human, Patriotic, Lamenting 
-Vocal Style: Dynamic (Whispered → Rhythmic → Screamed)  
+Vocal Style: Dynamic (Whispered → Rhythmic → Screamed)   
 Lyrics: Original  
-Keywords: Persian Music, Iran, Homeland, Mourning, Resistance, Tragedy, Cinematic,
+Keywords: Persian Music, Iran, Homeland, Mourning, Resistance, Tragedy, Cinematic, 
 Composer & Lyricist: Amir Astaneh  
 Producer: Amir Astaneh  
 Artwork: Original (AI-assisted)  
 Artwork Collaboration: Amir Astaneh, Faye Satari, AI  
-Audio Format: MP3
+Audio Format: MP3 
 AI Assistance Used: Yes  
 Open Source Project: Yes  
 License: Open Artistic Use  
