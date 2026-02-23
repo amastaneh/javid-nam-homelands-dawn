@@ -8,7 +8,7 @@
 اثری که با همراهی هوش مصنوعی و به‌صورت گام‌به‌گام شکل گرفته و روند خلق و تکامل آن به‌صورت شفاف در این مخزن منتشر شده است.
 
 ### انتشار و دسترسی
-- GitHub Releases: [github.com/amastaneh/music-my-home](https://github.com/amastaneh/music-my-home/release)
+- GitHub Releases: [github.com/amastaneh/javid-nam-homelands-dawn](https://github.com/amastaneh/javid-nam-homelands-dawn/release)
 - SoundCloud: [soundcloud.com/amastaneh](https://soundcloud.com/amastaneh)
 - Bandcamp: [amastaneh.bandcamp.com/album/javid-nam](https://amastaneh.bandcamp.com/album/javid-nam)
 ### مجوز و مشارکت
